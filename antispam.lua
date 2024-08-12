@@ -19,6 +19,7 @@ local blocks = {
   { "Gratz" },
   { "Gratz!" },
   { "Gz!!" },
+  { "GRATSA" },
   { "Gz!!!" },
   { "Gz!!!!" },
   { "Gz!!!!!" },

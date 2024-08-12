@@ -24,6 +24,7 @@ local blocks = {
   { "Gz!!!!!" },
   { "GRATS" },
   { "Gratz!!" },
+  { "gzgz!!" },
 }
 
 local prepare = function(msg)
